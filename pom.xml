@@ -4,4 +4,7 @@
   <artifactId>fw</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>fw</name>
+  <dependencies>
+  
+  </dependencies>
 </project>
