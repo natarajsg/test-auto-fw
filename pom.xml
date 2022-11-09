@@ -6,11 +6,8 @@
   <name>fw</name>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+  <!-- hello -->
   <dependency>
-    <!--com hello-->
-    <!--com1-->
-    <!--com2-->
-    <!--branch b1-->
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
       <version>4.6.0</version>
